@@ -15,7 +15,7 @@ function ConstructionPage() {
 
 <div className="flex flex-col relative bottom-[6rem] text-center justify-center  items-center">
 
-      <h1 className="text-4xl font-bold mb-4"> Project Under Construction </h1>
+      <h1 className="text-4xl font-bold mb-4"> <span className="underline">MyTube</span> is Under Construction </h1>
       <p className="text-lg text-gray-200 mb-8"> Developer 
         <span className="font-extrabold"> Kartikesh</span> is working hard to bring you an awesome project. Check back soon!
       </p>
